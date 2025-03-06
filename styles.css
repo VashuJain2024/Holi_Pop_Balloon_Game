@@ -22,7 +22,7 @@ h1 {
 .balloon {
     position: absolute;
     bottom: -100px;
-    width: 3.5em;
+    width: 4em;
     height: 5em;
     background-color: red;
     border-radius: 50%;
@@ -71,7 +71,7 @@ h1 {
 
 @media screen and (max-width: 500px) {
     .balloon {
-        width: 2.5em;
+        width: 3em;
         height: 4em;
     }
 
@@ -82,7 +82,7 @@ h1 {
 
 @media screen and (max-width: 400px) {
     .balloon {
-        width: 2em;
+        width: 2.5em;
         height: 3.5em;
     }
 }
